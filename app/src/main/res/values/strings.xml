@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageLingo</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Maori</item>
+        <item>Samoan</item>
+        <item>Chinese</item>
+        <item>Russian</item>
+    </string-array>
+</resources>
