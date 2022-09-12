@@ -1,4 +1,4 @@
-package com.example.cosc345
+package com.example.imageLingo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

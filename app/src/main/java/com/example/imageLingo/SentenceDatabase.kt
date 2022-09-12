@@ -1,10 +1,9 @@
-package com.example.cosc345
+package com.example.imageLingo
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import java.security.AccessControlContext
 
 @Database(entities = [Sentence::class], version = 1, exportSchema = false)
 abstract class SentenceDatabase: RoomDatabase() {

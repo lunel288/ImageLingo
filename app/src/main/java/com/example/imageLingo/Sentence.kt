@@ -1,4 +1,4 @@
-package com.example.cosc345
+package com.example.imageLingo
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

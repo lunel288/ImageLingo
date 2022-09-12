@@ -1,4 +1,4 @@
-package com.example.cosc345
+package com.example.imageLingo
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel

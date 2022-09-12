@@ -1,4 +1,4 @@
-package com.example.cosc345
+package com.example.imageLingo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
